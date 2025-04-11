@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=tinta2510&color=brightgreen)
 
 ## 📈 GitHub Stats
-![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinta2510&show_icons=true&theme=radical)
+![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinta2510&show_icons=true&theme=shadow_green)
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trung-tin-ta-7820b2208/) [https://www.linkedin.com/in/trung-tin-ta-7820b2208/](https://www.linkedin.com/in/trung-tin-ta-7820b2208/)
